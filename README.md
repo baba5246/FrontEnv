@@ -57,7 +57,7 @@ Note:
 
 最後にSublime Text 2をダウンロードしてインストールしてください。
 
-1. http://www.sublimetext.com/2にアクセスする
+1. http://www.sublimetext.com/2 にアクセスする
 2. 「OS X (OS X 10.6 or later is required)」と書いてあるところをクリック。（ダウンロードスタート）
 3. 「Sublime Text 2.0.2.dmg」がダウンロード完了したらダブルクリックしてインストールする。
 
